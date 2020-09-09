@@ -1,0 +1,8 @@
+1,2,3
+Este,eh,um
+Texto,exemplo,para
+O,cap,9
+#este, #comeca
+Com, #hash
+joao@gmail.com, pedro@outroemail.com
+maria@hotmail.com, maria2@hotmail2.com
